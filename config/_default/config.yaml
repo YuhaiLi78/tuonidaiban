@@ -10,7 +10,7 @@ baseURL: 'https://tuonidaiban.com/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh-Hans
+defaultContentLanguage: en-us
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
