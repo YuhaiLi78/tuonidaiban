@@ -31,8 +31,16 @@ content:
         color: '#555'
         brightness: 0.7
         media: china-passport.jpeg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: 护照换发补发
+      content: 旧金山及洛杉矶领区，中国护照换发和补发
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: china-passport.jpeg
+    - title: 回国隔离一条龙服务（仅限旧金山湾区起飞）
+      content: 住宿，核酸检测，接送等一条龙服务。顺利把您送上归国的飞机。
       align: right
       background:
         position: center
@@ -40,8 +48,8 @@ content:
         brightness: 0.5
         media: welcome.jpg
       link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
+        icon: message-lines
+        icon_pack: fa
+        text: 联系我们
         url: ../contact/
 ---
