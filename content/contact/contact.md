@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 title: 联系方式
-subtitle:
+subtitle: 如果您任何需或者问题，欢迎添加微信，或者发送邮件。我们竭诚为您服务
 
 content:
   # Contact (edit or remove options as required)
@@ -52,8 +52,5 @@ content:
 design:
   columns: '1'
 ---
-<div class="row">
-  <div class="column"><center>如果您任何需或者问题，欢迎添加微信，或者发送邮件。我们竭诚为您服务</center></div>
-  <div class="column"><img src="/assets/media/contact.jpeg" alt="微信"></div>
-</div>
+
 
