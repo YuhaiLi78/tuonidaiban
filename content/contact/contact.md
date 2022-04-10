@@ -1,7 +1,26 @@
 ---
 # An instance of the Contact widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: contact
+widget: hero # See https://wowchemy.com/docs/page-builder/
+headless: true # This file represents a page section.
+weight: 10 # Order that this section will appear.
+title: |
+  联系我们
+subtitle: 如果您任何需或者问题，欢迎添加微信，或者发送邮件。我们竭诚为您服务
+hero_media: contact.jpeg
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+  # Add custom styles
+  css_style:
+  css_class:
+---
+
+<br>
+**电子邮件**：tuonidaiban@gmail.com    
+**工作时间**：美西时间 10am - 6pm
+
+<!-- widget: contact
 
 # This file represents a page section.
 headless: true
@@ -50,7 +69,7 @@ content:
   #     captcha: false
 
 design:
-  columns: '1'
+  columns: '1' -->
 ---
 
 
