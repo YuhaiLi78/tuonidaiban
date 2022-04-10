@@ -28,7 +28,7 @@
 #     padding: ['20px', '0', '20px', '0']
 # advanced:
 #   css_class: fullscreen
-widget: hero # See https://wowchemy.com/docs/page-builder/
+widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
