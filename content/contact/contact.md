@@ -54,6 +54,6 @@ design:
 ---
 <div class="row">
   <div class="column"><center>如果您任何需或者问题，欢迎添加微信，或者发送邮件。我们竭诚为您服务</center></div>
-  <div class="column"><img src="contact.jpeg" alt="微信"></div>
+  <div class="column"><img src="/assets/media/contact.jpeg" alt="微信"></div>
 </div>
 
